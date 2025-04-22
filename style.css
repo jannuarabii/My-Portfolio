@@ -888,7 +888,6 @@ nav {
     position: relative;
     overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    box-shadow: 0 0.5em 1.2em rgba(166, 87, 212, 0.3);
     align-self: flex-start;
     margin-top: 1rem;
 }
